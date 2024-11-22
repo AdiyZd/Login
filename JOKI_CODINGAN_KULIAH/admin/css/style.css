@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(to right, #4285f4 50%, #ffffff 50%);
+    height: 100vh;
+    color: #000;
+  }
+
+  #l1 {
+    color: #fff;
+    font-size: 50px;
+    font-family: Tahoma;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #p1 {
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  
+  .left-content {
+    text-align: center;
+    padding: 2rem;
+  }
+
+  #Remember {
+    position: relative;
+    z-index: 2;
+    margin-top: 20px;
+  }
+
+  /* #fe {
+    position: relative;
+    top: -20px;
+    z-index: 10;
+  } */
+  
+  .login-card {
+    background-color: #fff;
+    color: #000;
+    padding: 2rem;
+    border-radius: 8px;
+    /* animasi 1 */
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    /* animasi 2 */
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+  }
+  
+  #login {
+    position: relative;
+    z-index: 11;
+    top: -9px;
+    font-weight: 500;
+    font-size: 1.2  rem;
+  }
+
+  .btn-google {
+    background-color: #4285f4;
+    color: #fff;
+  }
+
+  #crT {
+    position: relative;
+    z-index: 12;
+    top: -15px;
+  }
+  
+    /* Garis Pembatas */
+    /* border-left: 2px solid #ddd; */
+  
